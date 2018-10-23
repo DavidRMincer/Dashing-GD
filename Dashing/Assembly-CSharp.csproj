@@ -59,7 +59,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Boost.cs" />
     <Compile Include="Assets\Scripts\Player_Script.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>U:/Documents/GitHub/Dashing-GD/Dashing/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
